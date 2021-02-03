@@ -1,2 +1,2 @@
-# minecraft
+# NTO_lab
 survival
